@@ -1,0 +1,189 @@
+ body
+ { 
+    background-color: pink ;
+ }
+ header 
+ {
+    
+    height:250px;
+    width:1336px;
+    margin: 5px 3px 2px 5px;
+    background-image: url(1.jpg);
+}
+ ul
+ {
+    margin:5px 0px 0px 0px;
+ }
+ ul li a
+ {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+     
+ }
+li
+{
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+
+}
+ #navigation ul a:hover
+ {
+  background-color: lightpink; 
+  color:green;
+  font-weight: bold;
+ }
+section#navigation
+ {
+    background-color: #DEF5FF;
+    height:50px;
+    width: 1336px;
+    margin: 5px 3px 2px 5px;
+ }
+#backtotop
+{
+    top:500px;
+    left:1236px;
+    position: fixed;
+
+}
+ section#left
+ { border-radius: 5px;
+ 	float: left;
+ 	height:700px;
+    background-color: #DEF5FF;
+    width:980px;
+    margin: 5px 3px 0px 5px;
+ }
+ section#right 
+ {
+ 	border-radius: 5px;
+ 	float:left;
+  text-align: center;	height:680px;
+    background-color: #DEF5FF;
+    width:338px;
+    padding-top: 20px;
+    margin: 5px 10px 10px 10px;
+}
+
+ section#belowmid
+ { border-radius: 5px;
+ 	float: left;
+ 	vertical-align: center;
+ 	height:1100px;
+    background-color: #DEF5FF;
+    width:980px;
+    margin: 5px 3px 2px 170px;
+ }
+
+ section#archive
+ { 
+ 	float: left;
+ 	height:810px;
+    background-color: #DEF5FF;
+    width:1340px;
+   
+ }
+ article.archive
+ {
+    float:left;
+    height:280px;
+    width:250px;
+    background-color:#DEF5FF;
+    margin-left: 140px;
+    border: 3px solid black;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+ }
+
+
+ article.barchive
+ {
+    float:left;
+    height:280px;
+    width:250px;
+    background-color:light blue;
+    margin-left: 250px;
+    margin-top: 30px;
+    border: 3px solid black;
+   font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+ }
+ section#comment
+ {
+    border-radius: 5px;
+    float: left;
+    background-color: light blue;
+    width:980px;
+    height:650px;
+    margin: 5px 3px 2px 5px;
+
+ }
+ section#contact
+ {
+  border-radius: 5px;
+    float: left;
+    height:650px;
+    background-color: light blue;
+    width:350px;
+    margin: 5px 3px 2px 5px;  
+ }
+ .abt{
+	font-size: 50px;
+	padding-left: 20px;
+	text-decoration: underline; 
+}
+.links a
+{   text-decoration: none;
+    font-size: 30px;
+}
+time{
+    font-size: 20px;
+    font-weight: bold;
+}
+.com a
+{ 
+    
+    padding-right:10px;
+    float: right;
+color: black;
+text-align: right;
+font-size: 20px;
+}
+p.description
+{
+	font-size: 20px;
+    padding-left: 20px;
+    font-style:"Agency FB", monospace, sans-serif; 
+}
+.col1{
+
+
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    vertical-align: top;
+}
+.col2 
+{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    vertical-align: top;
+}
+footer
+{   height: 20px;
+    width: 1349px;
+    background-color: lightgrey;
+    float:left;  
+
+ }  
+ #copyright
+ {
+    padding-left: 500px;
+ } 
+
